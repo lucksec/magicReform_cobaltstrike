@@ -10,6 +10,8 @@
 添加teamserver IP白名单
 添加免杀
 ```
+<img width="561" alt="image" src="https://user-images.githubusercontent.com/59011386/202895091-fa57a233-93a8-47ef-a17c-a6f48e697543.png">
+
 
 # 欢迎提交想法
 
