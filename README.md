@@ -1,4 +1,4 @@
-# magicReform_cobaltstrike.jar
+# cobaltstrike_secondarydevelopment
 
 # 魔改cobaltstrike.jar
 
