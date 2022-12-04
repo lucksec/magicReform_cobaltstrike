@@ -10,11 +10,6 @@
 </h1>  
 
 
-<img src='https://github-readme-stats.vercel.app/api?username=lucksec&show_icons=true&theme=cobalt' width='400px'>
-
-
-
-
 
 # 魔改cobaltstrike4.5
 
