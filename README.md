@@ -19,7 +19,6 @@
     添加中文汉化翻译
     防止cs反制修改.aggressor.prop文件
 ```
-<img width="561" alt="image" src="https://user-images.githubusercontent.com/59011386/202895091-fa57a233-93a8-47ef-a17c-a6f48e697543.png">
 
 
 # 欢迎提交想法
