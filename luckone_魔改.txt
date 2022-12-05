@@ -1,0 +1,17 @@
+欢迎关注公众号：BateSec
+
+修改细节
+    修改监听不返回任何数据
+    添加teamserver认证白名单限制登陆IP
+    去除checksum8特征
+    默认证书已替换
+    防止stage被扫
+    去除listenerConfig特征字符串
+    修改配置加解密的xorkey
+    cs去除beaconeye特征
+    修复CVE-2022-39197
+    cs修复错误路径泄漏stage
+    增加谷歌动态密码(身份验证器)
+    修复cs4.5的foreign派生bug
+    添加中文汉化翻译
+    防止cs反制修改.aggressor.prop文件
