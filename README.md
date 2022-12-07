@@ -34,6 +34,7 @@
 
 # 欢迎提交想法
 
+# 反馈和交流
 ## 加群
 <img width="974" alt="image" src="https://user-images.githubusercontent.com/59011386/206117716-d4af212b-5fb6-46b4-9cc1-ceca13d180cb.png">
 
@@ -44,13 +45,6 @@
 
 <img width="642" alt="image" src="https://user-images.githubusercontent.com/59011386/205479492-6b021746-6a83-41ea-afc4-9002fc3449b5.png">
 
-# 反馈和交流
-<img width="534" alt="image" src="https://user-images.githubusercontent.com/59011386/205480167-0214d27e-9a86-4ab8-ad76-467dca4c43e4.png">
-
 如果感觉不错，欢迎给我的项目点个star或者分享给其他师傅
-
-# 目前修改进度
-
-<img width="787" alt="image" src="https://user-images.githubusercontent.com/59011386/202851309-6fd805a6-cf70-4e91-957e-f6e8061a88f2.png">
 
 
