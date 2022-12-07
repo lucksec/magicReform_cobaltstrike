@@ -34,6 +34,10 @@
 
 # 欢迎提交想法
 
+## 加群
+<img width="974" alt="image" src="https://user-images.githubusercontent.com/59011386/206117716-d4af212b-5fb6-46b4-9cc1-ceca13d180cb.png">
+
+
 **有想法大佬一起魔改**
 
 # 联系作者
